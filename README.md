@@ -8,7 +8,7 @@ Recent progress has been made in developing computer vision systems that transla
 ### Project Goals
 In this notebook, we will train a convolutional neural network (CNN) to classify images of ASL letters. After loading, examining, and preprocessing the data, we will train the network and test its performance.
 
-### 1. Data Loading
+## 1. Data Loading
 We begin by loading the training and test data.
 
 
