@@ -1,4 +1,3 @@
-here is the link for the github repo:- 
 ## American Sign Language (ASL) 
 ### Introduction to American Sign Language 
 American Sign Language (ASL) is the primary language used by many deaf individuals in North America. It is also used by hard-of-hearing and hearing individuals. ASL is as rich as spoken languages, employing signs made with the hands, along with facial gestures and bodily postures.
